@@ -1,0 +1,39 @@
+.video-container {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: 40rem;
+  z-index: -100;
+  background-color: #33cc99;
+}
+
+#video {
+  position: absolute;
+  z-index: 0;
+  background-size: 100% 100%;
+  top: 0;
+  left: 0; /* fixed to left. Replace it by right if you want.*/
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+}
+
+.cover-color {
+  background-color: rgba(51, 204, 153, 0.5);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  h1 {
+    font-weight: 600;
+  }
+}
+
+.bg-info {
+  background-color: #33cc99 !important;
+}

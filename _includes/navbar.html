@@ -1,32 +1,33 @@
-<!-- <nav class="navbar navbar-expand-md navbar-dark bg-primary-docs">
+<nav class="navbar navbar-expand-lg navbar-dark bg-info">
   <div class="container">
-    <a class="navbar-brand d-flex align-items-center" href="{{ site.url }}">
-      <img class="mr-3" style="height: 33px;" src="/img/icons/logo.png" />
-      <span class="d-inline-block">Bootstrap Email</span>
-    </a>
+    <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="{{ site.url }}#features">Features</a>
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if include.active == "documentation" %}active{% endif %}" href="{{ site.url }}/docs/introduction">Documentation</a>
+          <a class="nav-link" href="#">Link</a>
         </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Dropdown
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Something else here</a>
+          </div>
         </li>
         <li class="nav-item">
-          <a class="nav-link {% if page.active == "editor" %}active{% endif %}" href="{{ site.url }}/editor">Editor</a>
+          <a class="nav-link disabled" href="#">Disabled</a>
         </li>
       </ul>
-      <div class="ml-md-auto">
-        {% if page.active != "index" %}
-          <iframe style="margin-bottom: -11px;margin-right: -5px;" src="https://ghbtns.com/github-btn.html?user=stuyam&repo=bootstrap-email&type=star&count=true&size=large" frameborder="0" scrolling="0" width="125px" height="30px"></iframe>
-        {% endif %}
-        <a href="https://github.com/stuyam/bootstrap-email" class="ml-md-auto btn btn-outline-light">View on <strong>GitHub</strong></a>
-      </div>
     </div>
   </div>
 </nav>
- -->
