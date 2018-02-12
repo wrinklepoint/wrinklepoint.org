@@ -67,3 +67,13 @@ svg {
     width: 1.25rem;
   }
 }
+
+.bottom-shell {
+  width: 33%;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  color: #3299CC;
+  opacity: 0.25;
+  z-index: -100;
+}
