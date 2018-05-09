@@ -16,7 +16,7 @@ title: Photos
 <div id="instafeed"></div>
  -->
 ## #wrinklepoint
-<span class="text-muted">Post photos to Instagram with the hashtag **#wrinklepoint** to add to this page.</span>
+<span class="text-muted">Post photos to Instagram with the hashtag **#wrinklepoint** to add to this page.<br> Note: it may take up to 24 hours for the photo to be added to the page.</span>
 
 <style type="text/css">
   .referral,

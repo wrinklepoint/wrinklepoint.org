@@ -1,58 +1,87 @@
 ---
 layout: page
 title: Board
+hasImageHeader: true
 ---
 
-WRINKLE POINT BOARD OF DIRECTIONS
-Lee Binnig
-PRESIDENT
-Marty Lyons
-VICE PRESIDENT & POOL
-Stephen O'Keefe
-POOL
-Frank Daly
-TREASURER
-Kristine DeMarco
-MEMBERSHIP
-Ed Jette
-COMMUNICATIONS & FINANCE
-Carole O'Connell
-SECRETARY
-Jayne Adams
-CLUBHOUSE
-Fran Miller
-MARINA
-Dave Watson
-COMMON AREAS
-Lee Ann Gilligan
-SOCIAL
- The Wrinkle Point marina
-WRINKLE POINT BYLAWS
+## Board of Directors
+
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th>Title</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>President</td>
+      <td>Lee Binnig</td>
+    </tr>
+    <tr>
+      <td>Vice President & Pool</td>
+      <td>Marty Lyons</td>
+    </tr>
+    <tr>
+      <td>Pool</td>
+      <td>Stephen O'Keefe</td>
+    </tr>
+    <tr>
+      <td>Treasurer</td>
+      <td>Frank Daly</td>
+    </tr>
+    <tr>
+      <td>Membership</td>
+      <td>Kristine DeMarco</td>
+    </tr>
+    <tr>
+      <td>Communications & Finance</td>
+      <td>Ed Jette</td>
+    </tr>
+    <tr>
+      <td>Secretary</td>
+      <td>Carole O'Connell</td>
+    </tr>
+    <tr>
+      <td>Clubhouse</td>
+      <td>Jayne Adams</td>
+    </tr>
+    <tr>
+      <td>Marina</td>
+      <td>Fran Miller</td>
+    </tr>
+    <tr>
+      <td>Common Areas</td>
+      <td>Dave Watson</td>
+    </tr>
+    <tr>
+      <td>Social</td>
+      <td>Lee Ann Gilligan</td>
+    </tr>
+  </tbody>
+</table>
+
+## Bylaws
+
 ARTICLE I. NAME, LOCATION, CORPORATE SEAL
 Section 1.
 The name of the corporation shall be Wrinkle Point Association, Inc.
 
-
 Section 2.
 The principal place of business of the corporation shall be located in the Town of Dennis, Barnstable County, Massachusetts.
-
 
 Section 3.
 The corporate seal shall be circular in form and have inscribed thereon the name of the corporation, year of its incorporation, and the word "Massachusetts".
 
-
 ARTICLE II. PURPOSES
 The purpose of the corporation are to maintain and improve the property of the Association; to preserve the privacy of the property of the Association and the privacy of the entire Wrinkle Point community; to maintain, repair, improve and police all of the roads, greens, gates, beaches and reserve landings in Wrinkle Point which are used in common by all residents; to further and promote any and all beach, bathing and boating facilities and to provide adequate and desirable facilities therefore; to further and promote social, athletic, health and recreational activities; and to do any and all things necessary or incidental to these purposes permissible under the laws of the Commonwealth of Massachusetts. These purposes shall include the right to apply for a license to sell alcoholic beverages.
-
 
 ARTICLE III. MEMBERSHIP
 Section 1.
 The membership of this corporation shall consist of all persons who have an ownership interest in a home in Wrinkle Point, who reside in such home on a full-time or part-time basis, and who pay the established annual membership dues. The ownership interest of any such person or persons may be held in a trust, but the membership in the Association shall be in the name of such person or persons and not in the name of the trust.
 
-
 Section 2.
 The privileges of membership, except the right to vote, shall extend to all persons who are members of the immediate household of the member.
-
 
 Section 3.
 Members shall be liable for annual dues until they cease to be members. A member shall cease to be a member upon the happening of any of the following:
@@ -64,61 +93,47 @@ The expulsion for cause of the member, after a hearing by the Board of Directors
 Section 4.
 The annual membership dues shall be established from time to time by the Board of Directors.
 
-
 Section 5.
 Applications for membership shall be in a form prescribed by the Board of Directors and shall be signed by the applicant, who shall agree thereby to observe the by-laws and all rules and regulations established by the Board of Directors.
-
 
 ARTICLE IV. MEETINGS
 Section 1.
 The annual meeting of the members of the corporation shall be held at the office of the corporation or at such other place as may be determined by the Board of Directors and designated in the notice of such meeting. The meeting shall be held on the next to last Saturday in August. The business to be transacted at such meeting shall be the election of a Board of Directors and such other business as shall be properly brought before the meeting. If the annual meeting is not held as above appointed, a special meeting to be called as hereinafter provided may be held in lieu of the annual meeting, and all business transacted and elections held at such meeting shall be valid as if transacted or held at the annual meeting.
 
-
 Section 2.
 Special meetings of the members of the corporation may be called at any time by the President or by order of the Board of Directors and shall be called upon written request of ten percent of the members made in writing to the Secretary.
-
 
 Section 3.
 Written notice of the annual and any special meeting of the members of the corporation shall be given by the Secretary at least fourteen (14) days before the meeting to each member by leaving such notice with him at this residence of by mailing it postage prepaid and addressed to him at this address as it appears on the records of the corporation. Such notice shall state the time and place of the meeting and the purpose thereof.
 
-
 Section 4.
 A majority of the members of the corporation entitled to vote, represented either in person or by proxy at any meeting, shall constitute a quorum for the transaction of business. In the absence of a quorum the members present shall have the power to adjourn from time to time until a quorum be present, without further notice other than announcement at the meeting of the time and place of the adjourned meeting.
 
-
 Section 5.
 In those cases where the home is owned jointly by two (2) or more members or the ownership interest is held in a trust for the benefit of more than one (1) member, only one (1) of such members shall be entitled to vote at any meeting of the members of the corporation.
-
 
 ARTICLE V. OFFICERS AND THEIR ELECTION
 Section 1.
 The officers of the corporation shall be a Board of Directors consisting of nine (9) members, a President, a Vice-President, a Treasurer and a Secretary.
 
-
 Section 2.
 The Board of Directors shall be elected from the members of the corporation at the annual meeting by a majority of the members present and voting. Directors shall be elected for a term of three (3) years and shall hold office for such period or until their successors are chosen and qualified. The outgoing President shall be an ex officio member of the Board of Directors, without voting rights, until the next annual meeting following the termination of his presidency. A member may not be re-elected to the Board of Directors for a period of two (2) years after his last service.
-
 
 Section 3.
 The President, vice-President shall be elected annually by the Board of Directors at its first meeting of the members of the corporation and shall hold office until the next annual meeting or until their successors are chosen and qualified. The President and Vice-President shall be elected from the Board of Directors. The Treasurer and the Secretary shall be elected from the members of the corporation.
 
-
 Section 4.
 In case of the absence of any officer of the corporation or for any other reason that the Board of Directors may deem sufficient, the Board may delegate for the time being, the powers and duties, or any of them, of such officer to any other officer, or to any Director, provided a majority of the entire Board concur.
 
-
 Section 5.
 Any vacancy in the Board of Directors, however occurring, and any vacancy in any other office shall be filled by the Board of Directors. The person appointed to fill any such vacancy shall serve until the next annual meeting of the members of the corporation.
-
 
 ARTICLE VI. BOARD OF DIRECTORS
 Section 1.
 The Board of Directors shall meet as often as the needs of the corporation may require. They may fix the time and manner of giving notice of the meeting and may determine the form and contents of the notice to be given. Any meeting of the Board of Directors shall be a legal meeting if each Director, by a writing which is filed with the records of the meeting, waives such notice. Unless otherwise specified in the notice, any and all business may be transacted at any meeting of the Board. A meeting of the Board of Directors will be held annually without notice immediately following the annual meeting of the members.
 
-
 Section 2.
 A majority of the Board of Directors then in office shall constitute a quorum. Though less than a quorum be present, any meeting may, without further notice be adjourned to a subsequent date or until a quorum be had.
-
 
 Section 3.
 The Board of Directors shall have the control and management of the affairs and property of the corporation and also have and exercise all of the powers conferred upon them or set forth in the charter of the corporation, the general laws, or these by-laws. Without in any manner limiting the general powers otherwise conferred, it is hereby expressly declared that the Board of Directors shall have the following powers:
@@ -139,14 +154,11 @@ ARTICLE VII. OFFICERS
 Section 1.
 The President shall be the principal executive officer of the corporation and shall in general supervise and control all of the business and affairs of the corporation. He shall preside at all meetings of the members and of the Board of Directors. He shall perform all duties incident to the office of President and such other duties as may be prescribed by the Board of Directors from time to time.
 
-
 Section 2.
 The Vice-President shall perform the duties of the President in his absence or disability, and shall perform such other duties as the Board of Directors and the President may from time to time determine.
 
-
 Section 3.
 The Treasurer shall have custody of the funds of the corporation and deposit the same in such banks or trust companies as shall be selected by the Board of Directors and in general, shall perform all of the duties incident to the office of Treasurer and such other duties as from time to time may be assigned by the President of the Board of Directors. He shall keep books and records of account and shall present at the annual meeting of the members, or whatever the Directors may require, a statement of the financial condition of the corporation. If required by the Board of Directors, he shall give a bond for the faithful discharge of his duties in such sum and with such surety or sureties as the Board of Directors shall determine.
-
 
 Section 4.
 The Secretary shall keep the minutes of the meetings of the members and the Board of Directors; see that all notices are duly given in accordance with the provisions of these by-laws; keep a record of the name and address of each member; and in general perform all duties incident to the office of Secretary and such other duties as from time to time may be assigned by the President or by the Board of Directors.

@@ -4,8 +4,7 @@ title: Marina
 hasImageHeader: true
 ---
 
-MARINA SENIORITY LIST
-(2015)
+## Marina Seniority List (2015)
 <div class="row">
   <div class="col-sm-3">
     <ol>
@@ -19,12 +18,12 @@ MARINA SENIORITY LIST
       <li>C. Cave</li>
       <li>D. Sisk</li>
       <li>B. Lenich</li>
-      <li>B. D'Errico</li>
-      <li>J. McCabe</li>
     </ol>
   </div>
   <div class="col-sm-3">
-    <ol>
+    <ol start="11">
+      <li>B. D'Errico</li>
+      <li>J. McCabe</li>
       <li>M. Hession</li>
       <li>J. McAuliffe</li>
       <li>L. Binnig</li>
@@ -33,20 +32,24 @@ MARINA SENIORITY LIST
       <li>D. Langille</li>
       <li>J. Brennan</li>
       <li>P. Butler</li>
+    </ol>
+  </div>
+  <div class="col-sm-3">
+    <ol start="21">
       <li>R. Wadman</li>
       <li>M. Lyons</li>
       <li>B. Mellen</li>
       <li>C. Atchue</li>
-    </ol>
-  </div>
-  <div class="col-sm-3">
-    <ol>
       <li>S. Yamartino</li>
       <li>S. O'Keefe</li>
       <li>J. Hills</li>
       <li>S. Matfis</li>
       <li>K. Rem</li>
       <li>D. Watson</li>
+    </ol>
+  </div>
+  <div class="col-sm-3">
+    <ol start="31">
       <li>S. Ninos</li>
       <li>B. Adams</li>
       <li>M. Warner</li>
@@ -55,12 +58,11 @@ MARINA SENIORITY LIST
       <li>D. Cavicchi</li>
       <li>M. Fee</li>
       <li>G. Ambulos</li>
-  </ol>
+    </ol>
   </div>
 </div>
 
-MARINA WAITING LIST
-(2015)
+## Marina Waiting List (2015)
 1. S. Shaw
 2. N. Hickey
 3. M. Warren
