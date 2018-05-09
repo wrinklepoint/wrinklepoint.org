@@ -1,0 +1,17 @@
+{% include open-page.html style='white' %}
+{% include navbar.html style='white' %}
+  <div class="container">
+    <div class="d-flex align-items-center mt-3 mb-2">
+      <div class="header-dot mr-3" style="margin-top: -7px;"></div>
+      <h1><strong>{{ page.title }}</strong></h1>
+    </div>
+    <div class="card shadow-sm mb-4">
+      {% if page.hasImageHeader %}
+        <img class="card-img-top" src="/img/page-headers/{{ page.title | slugify }}.jpg">
+      {% endif %}
+      <div class="card-body">
+        {{ content }}
+      </div>
+    </div>
+  </div>
+{% include close-page.html %}

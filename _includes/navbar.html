@@ -1,29 +1,33 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<div class="bg-gradient w-100" style="height: 8px"></div>
+{% if include.style == 'white' %}
+  <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+{% else %}
+  <nav class="navbar navbar-expand-lg navbar-dark">
+{% endif %}
   <div class="container">
-    <a class="navbar-brand" href="#"><img style="height: 2rem;margin-top: -7px;" class="mr-2" src="{{ config.url }}/img/icons/shell.svg" />Wrinkle Point</a>
+    <a class="navbar-brand" href="/"><img style="height: 2rem;margin-top: -7px;" class="mr-2" src="{{ config.url }}/img/icons/shell-{% if include.style == 'white' %}black{% else %}white{% endif %}.svg" />Wrinkle Point</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Board <span class="sr-only">(current)</span></a>
+        <li class="nav-item {% if page.title == "Photos" %}active{% endif %}">
+          <a class="nav-link" href="/photos">Photos</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">History <span class="sr-only">(current)</span></a>
+        <li class="nav-item {% if page.title == "Events" %}active{% endif %}">
+          <a class="nav-link" href="/events">Events</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Roads <span class="sr-only">(current)</span></a>
+        <li class="nav-item {% if page.title == "Marina" %}active{% endif %}">
+          <a class="nav-link" href="/marina">Marina</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Marina <span class="sr-only">(current)</span></a>
+        <li class="nav-item {% if page.title == "History" %}active{% endif %}">
+          <a class="nav-link" href="/history">History</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Pool <span class="sr-only">(current)</span></a>
+        <li class="nav-item {% if page.title == "Board" %}active{% endif %}">
+          <a class="nav-link" href="/board">Board</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Social <span class="sr-only">(current)</span></a>
+        <li class="nav-item {% if page.title == "Pool" %}active{% endif %}">
+          <a class="nav-link" href="/pool">Pool</a>
         </li>
       </ul>
     </div>

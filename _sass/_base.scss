@@ -1,9 +1,13 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 svg {
   fill: currentColor;
+}
+
+.bg-gradient {
+  background: linear-gradient(to right, #0BA3D4, #5EECE3) !important;
 }
 
 .video-container {
@@ -35,25 +39,57 @@ svg {
   left: 0;
   right: 0;
   bottom: 0;
+}
 
+.cover{
+  -webkit-background-size: cover !important;
+  -moz-background-size: cover !important;
+  -o-background-size: cover !important;
+  background-size: cover !important;
+}
+
+.cover-tint {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: -1;
 }
 
 .display-3 {
   font-weight: 600;
 }
 
-.navbar {
-  border-bottom: 5px solid #3299CC;
-}
-
 .nav-item {
-  &:hover {
-    border-top: 5px solid #3299CC;
-    margin-top: -8px;
+  &.active {
+    font-weight: 600;
+  }
+  &:hover,
+  &.active  {
+    border-bottom: 2px solid white;
+    margin-bottom: -8px;
     a {
-      padding-top: 0.7rem;
+      padding-bottom: 0.7rem;
       vertical-align: middle;
     }
+  }
+}
+
+.navbar-light {
+  .nav-item {
+    &:hover,
+    &.active {
+      border-bottom: 2px solid black;
+    }
+  }
+}
+
+.navbar-dark {
+  background-color: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0)) !important;
+  .nav-link {
+    color: white !important;
   }
 }
 
@@ -67,13 +103,24 @@ svg {
     width: 1.25rem;
   }
 }
+strong {
+  font-weight: bold !important;
+}
 
-.bottom-shell {
-  width: 33%;
-  position: fixed;
-  bottom: 1rem;
-  right: 1rem;
-  color: #3299CC;
-  opacity: 0.25;
-  z-index: -100;
+.header-dot {
+  width: 20px;
+  height: 20px;
+  border-radius: 9999px;
+  background-color: #0BA3D4;
+}
+
+.marinascom {
+  position: absolute;
+  left: 1rem;
+  bottom: 0.75rem;
+  color: white;
+  a {
+    color: white;
+    text-decoration: underline;
+  }
 }
