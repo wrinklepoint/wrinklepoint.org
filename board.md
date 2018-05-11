@@ -16,47 +16,43 @@ hasImageHeader: true
   <tbody>
     <tr>
       <td>President</td>
-      <td>Lee Binnig</td>
+      <td>Scott Ryan</td>
     </tr>
     <tr>
-      <td>Vice President & Pool</td>
-      <td>Marty Lyons</td>
+      <td>Vice President & Membership</td>
+      <td>Mark Warner</td>
     </tr>
     <tr>
       <td>Pool</td>
-      <td>Stephen O'Keefe</td>
+      <td>Richard Wadman & Pat Curry</td>
     </tr>
     <tr>
       <td>Treasurer</td>
-      <td>Frank Daly</td>
+      <td>Clint Cave</td>
     </tr>
     <tr>
-      <td>Membership</td>
-      <td>Kristine DeMarco</td>
-    </tr>
-    <tr>
-      <td>Communications & Finance</td>
-      <td>Ed Jette</td>
+      <td>Communications</td>
+      <td>Stephen Yamartino</td>
     </tr>
     <tr>
       <td>Secretary</td>
-      <td>Carole O'Connell</td>
+      <td>Karen Mellen</td>
     </tr>
     <tr>
       <td>Clubhouse</td>
-      <td>Jayne Adams</td>
+      <td>Mary Lynn Shibley</td>
     </tr>
     <tr>
       <td>Marina</td>
-      <td>Fran Miller</td>
+      <td>Bill Adams</td>
     </tr>
     <tr>
       <td>Common Areas</td>
-      <td>Dave Watson</td>
+      <td>Steven Kingsley</td>
     </tr>
     <tr>
       <td>Social</td>
-      <td>Lee Ann Gilligan</td>
+      <td>Sheila Jetty</td>
     </tr>
   </tbody>
 </table>

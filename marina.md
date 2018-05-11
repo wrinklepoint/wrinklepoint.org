@@ -22,7 +22,6 @@ hasImageHeader: true
   </div>
   <div class="col-sm-3">
     <ol start="11">
-      <li>B. D'Errico</li>
       <li>J. McCabe</li>
       <li>M. Hession</li>
       <li>J. McAuliffe</li>
@@ -31,13 +30,12 @@ hasImageHeader: true
       <li>F. Miller</li>
       <li>D. Langille</li>
       <li>J. Brennan</li>
-      <li>P. Butler</li>
+      <li>R. Wadman</li>
+      <li>M. Lyons</li>
     </ol>
   </div>
   <div class="col-sm-3">
     <ol start="21">
-      <li>R. Wadman</li>
-      <li>M. Lyons</li>
       <li>B. Mellen</li>
       <li>C. Atchue</li>
       <li>S. Yamartino</li>
@@ -46,30 +44,34 @@ hasImageHeader: true
       <li>S. Matfis</li>
       <li>K. Rem</li>
       <li>D. Watson</li>
+      <li>E. Jette</li>
+      <li>B. Adams</li>
     </ol>
   </div>
   <div class="col-sm-3">
     <ol start="31">
-      <li>S. Ninos</li>
-      <li>B. Adams</li>
       <li>M. Warner</li>
       <li>M. Rooney</li>
       <li>P. Gilligan</li>
       <li>D. Cavicchi</li>
       <li>M. Fee</li>
-      <li>G. Ambulos</li>
+      <li>N. Hickey</li>
+      <li>M. Warren</li>
+      <li>M. Kane</li>
+      <li>J. Langelier</li>
+      <li>J. Stadtler</li>
+      <li>S. Kingsley</li>
     </ol>
   </div>
 </div>
 
 ## Marina Waiting List (2015)
-1. S. Shaw
-2. N. Hickey
-3. M. Warren
-4. M. Kane
-5. J. Stadtler
-6. J. Langelier
-7. R. Slagle
+1. B. Shibley
+2. R. Slagle
+3. S. Shaw
+4. A. Schneller
+5. M. Mc Donough
+6. D. Marr
 
 
 <img class="mw-100" src="/img/marina/hurricane-bob.png" />
