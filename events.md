@@ -18,7 +18,7 @@ hasImageHeader: true
     <tr>
       <td>Sunday, 5/27/18</td>
       <td>Memorial Day Coffee Social</td>
-      <td></td>
+      <td>Shibley’s and Jette’s</td>
     </tr>
     <tr>
       <td>Saturday, 6/23/1</td>
@@ -38,7 +38,12 @@ hasImageHeader: true
     <tr>
       <td>Thursday, 7/12/18</td>
       <td>Ladies Progressive Dinner</td>
-      <td></td>
+      <td>
+        Hostess for cocktail hour:  Kristen Salmon<br>
+        Hostess for dinner:<br>
+        Hostess for dinner:<br>
+        Hostess for dinner:
+      </td>
     </tr>
     <tr>
       <td>Friday, 7/13/18</td>
@@ -58,12 +63,12 @@ hasImageHeader: true
     <tr>
       <td>Saturday, 8/18/18</td>
       <td>Annual Dinner</td>
-      <td>Daly’s</td>
+      <td>Daly’s and</td>
     </tr>
     <tr>
       <td>Sunday, 8/26/18</td>
       <td>Nine & Dine (tentative)</td>
-      <td></td>
+      <td>Scott Ryan</td>
     </tr>
     <tr>
       <td>Sunday, 10/7/18</td>
