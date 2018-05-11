@@ -39,10 +39,10 @@ hasImageHeader: true
       <td>Thursday, 7/12/18</td>
       <td>Ladies Progressive Dinner</td>
       <td>
-        Hostess for cocktail hour:  Kristen Salmon<br>
-        Hostess for dinner:<br>
-        Hostess for dinner:<br>
-        Hostess for dinner:
+        Cocktail hour:  Kristen Salmon<br>
+        Dinner:<br>
+        Dinner:<br>
+        Dinner:
       </td>
     </tr>
     <tr>
