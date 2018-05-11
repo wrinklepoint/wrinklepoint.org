@@ -2,19 +2,6 @@
 layout: page
 title: Photos
 ---
-<!--
-<script type="text/javascript" src="/js/instafeed.min.js"></script>
-
-<script type="text/javascript">
-    var feed = new Instafeed({
-        get: 'tagged',
-        tagName: 'awesome',
-        clientId: 'd89f75fcfbb04ad9b2e4db491189db48'
-    });
-    feed.run();
-</script>
-<div id="instafeed"></div>
- -->
 ## #wrinklepoint
 <span class="text-muted">Post photos to Instagram with the hashtag **#wrinklepoint** to add to this page.<br> Note: it may take up to 24 hours for the photo to be added to the page.</span>
 
