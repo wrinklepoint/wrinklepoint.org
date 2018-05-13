@@ -21,7 +21,7 @@ hasImageHeader: true
       <td>Shibley’s and Jette’s</td>
     </tr>
     <tr>
-      <td>Saturday, 6/23/1</td>
+      <td>Saturday, 6/23/18</td>
       <td>Cocktail Party</td>
       <td>Hession’s, Ryan’s, and Yamartino’s</td>
     </tr>

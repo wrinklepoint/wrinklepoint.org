@@ -4,7 +4,7 @@ layout: default
 <div class="cover-tint"></div>
 <div class="marinascom">Photo courtesy of <a href="https://marinas.com/view/harbor/92t2v_Bass_River_in_West_Dennis_Harbor_West_Dennis_MA_United_States">marinas.com</a></div>
 
-<div class="w-100 d-flex flex-column align-items-center" style="height: calc( 100% - 200px);">
+<div class="w-100 d-flex flex-column align-items-center" style="height: calc( 100% - 100px);">
   <div class="w-100 h-100 d-flex flex-column align-items-center justify-content-center align-self-center w-100 text-white px-4" style="max-width: 700px;">
     <h1 class="display-4 text-center">
       <strong>Wrinkle Point</strong>
