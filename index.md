@@ -6,7 +6,10 @@ layout: default
 
 <div class="w-100 d-flex flex-column align-items-center" style="height: calc( 100% - 100px);">
   <div class="w-100 h-100 d-flex flex-column align-items-center justify-content-center align-self-center w-100 text-white px-4" style="max-width: 700px;">
-    <h1 class="display-4 text-center">
+    <h1 class="d-none d-sm-block display-4 text-center">
+      <strong>Wrinkle Point</strong>
+    </h1>
+    <h1 class="d-block d-sm-none text-center">
       <strong>Wrinkle Point</strong>
     </h1>
     <p style="line-height: 1.7;">
