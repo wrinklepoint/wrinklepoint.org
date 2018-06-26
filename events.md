@@ -31,11 +31,6 @@ hasImageHeader: true
       <td></td>
     </tr>
     <tr>
-      <td>Wednesday, 7/4/18</td>
-      <td>4th of July Cookout</td>
-      <td></td>
-    </tr>
-    <tr>
       <td>Thursday, 7/12/18</td>
       <td>Ladies Progressive Dinner</td>
       <td>
