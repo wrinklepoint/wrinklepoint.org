@@ -4,7 +4,7 @@ title: Marina
 hasImageHeader: true
 ---
 
-## Marina Seniority List (2018)
+## Marina Seniority List (July 1, 2018)
 <div class="row">
   <div class="col-sm-3">
     <ol>
@@ -40,17 +40,16 @@ hasImageHeader: true
       <li>C. Atchue</li>
       <li>S. Yamartino</li>
       <li>S. O'Keefe</li>
-      <li>J. Hills</li>
       <li>S. Matfis</li>
       <li>K. Rem</li>
       <li>D. Watson</li>
       <li>E. Jette</li>
       <li>B. Adams</li>
+      <li>M. Warner</li>
     </ol>
   </div>
   <div class="col-sm-3">
     <ol start="31">
-      <li>M. Warner</li>
       <li>M. Rooney</li>
       <li>P. Gilligan</li>
       <li>D. Cavicchi</li>
@@ -61,17 +60,16 @@ hasImageHeader: true
       <li>J. Langelier</li>
       <li>J. Stadtler</li>
       <li>S. Kingsley</li>
+      <li>B. Shibley</li>
     </ol>
   </div>
 </div>
 
 ## Marina Waiting List (2018)
-1. B. Shibley
-2. R. Slagle
-3. S. Shaw
-4. A. Schneller
-5. M. Mc Donough
-6. D. Marr
+1. R. Slagle
+2. A. Schneller
+3. M. Mc Donough
+4. D. Marr
 
 ______
 
