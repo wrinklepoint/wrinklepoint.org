@@ -65,7 +65,7 @@ hasImageHeader: true
   </div>
 </div>
 
-## Marina Waiting List (2018)
+## Marina Waiting List (July 1, 2018)
 1. R. Slagle
 2. A. Schneller
 3. M. Mc Donough
