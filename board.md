@@ -4,7 +4,7 @@ title: Board
 hasImageHeader: true
 ---
 
-## Board of Directors
+## Board of Directors 2018-2019
 
 <table class="table">
   <thead class="thead-light">
@@ -16,7 +16,7 @@ hasImageHeader: true
   <tbody>
     <tr>
       <td>President</td>
-      <td>Scott Ryan</td>
+      <td>Bill Adams</td>
     </tr>
     <tr>
       <td>Vice President & Membership</td>
@@ -44,7 +44,7 @@ hasImageHeader: true
     </tr>
     <tr>
       <td>Marina</td>
-      <td>Bill Adams</td>
+      <td>Charlie Atchue</td>
     </tr>
     <tr>
       <td>Common Areas</td>
@@ -52,7 +52,7 @@ hasImageHeader: true
     </tr>
     <tr>
       <td>Social</td>
-      <td>Sheila Jetty</td>
+      <td>Julia Carey</td>
     </tr>
   </tbody>
 </table>
