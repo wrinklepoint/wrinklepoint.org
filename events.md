@@ -53,11 +53,11 @@ hasImageHeader: true
     <tr>
       <td>Sunday, 10/13/19</td>
       <td>Last Rose Dinner</td>
-      <td> TD</td>
+      <td> TBD</td>
     </tr>
   </tbody>
 </table>
 
-<div class="alert alert-info" role="alert">Email SJulia Carey at <u>juliascottcarey@gmail.com</u> to host an event.</div>
+<div class="alert alert-info" role="alert">Email Julia Carey at <u>juliascottcarey@gmail.com</u> to host an event.</div>
 
 
