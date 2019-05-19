@@ -58,4 +58,6 @@ hasImageHeader: true
   </tbody>
 </table>
 
-<div class="alert alert-info" role="alert">Email Sheila Jette at <u>sheilajette@verizon.net</u> to host an event.</div>
+<div class="alert alert-info" role="alert">Email SJulia Carey at <u>juliascottcarey@gmail.com</u> to host an event.</div>
+
+
