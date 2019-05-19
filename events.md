@@ -23,7 +23,7 @@ hasImageHeader: true
     <tr>
       <td>Saturday, 6/22/19</td>
       <td>Cocktail Party</td>
-      <td>  </td>
+      <td> TBD</td>
     </tr>
     <tr>
       <td>Thursday, 7/4/19</td>
