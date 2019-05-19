@@ -4,7 +4,7 @@ title: Events
 hasImageHeader: true
 ---
 
-## 2018
+## 2019
 
 <table class="table">
   <thead class="thead-light">
@@ -16,59 +16,44 @@ hasImageHeader: true
   </thead>
   <tbody>
     <tr>
-      <td>Sunday, 5/27/18</td>
-      <td>Memorial Day Coffee Social</td>
-      <td>Shibley’s and Jette’s</td>
+      <td>Monday, 5/27/19</td>
+      <td>Memorial Day Brunch</td>
+      <td> TBD</td>
     </tr>
     <tr>
-      <td>Saturday, 6/23/18</td>
+      <td>Saturday, 6/22/19</td>
       <td>Cocktail Party</td>
-      <td>Hession’s, Ryan’s, and Yamartino’s</td>
+      <td>  </td>
     </tr>
     <tr>
-      <td>Wednesday, 7/4/18</td>
+      <td>Thursday, 7/4/19</td>
       <td>4th of July Bike Parade</td>
-      <td></td>
+      <td>  TBD</td>
     </tr>
     <tr>
-      <td>Thursday, 7/12/18</td>
+      <td>Thursday, 8/1/19</td>
       <td>Ladies Progressive Dinner</td>
       <td>
-        Cocktail hour:  Kristen Salmon<br>
-        Dinner:<br>
-        Dinner:<br>
-        Dinner:
+        Cocktail hour:TBD<br>
+        Dinner: TBD<br>
+        Dinner: TBD<br>
+        Dinner: TBD
       </td>
     </tr>
     <tr>
-      <td>Friday, 7/13/18</td>
-      <td>Men’s Drinks, Dogs & Desserts</td>
-      <td>Ed Jette & Greg O’Connell</td>
+      <td>Friday, TBD</td>
+      <td> Cars, Cards, Cigars and Bourbon</td>
+      <td> TBD</td>
     </tr>
     <tr>
-      <td>Friday, 7/13/18</td>
-      <td>Memorial Day Coffee Social</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Thursday, 7/19/18</td>
-      <td>Paint Nite</td>
-      <td>Deb Binnig</td>
-    </tr>
-    <tr>
-      <td>Saturday, 8/18/18</td>
+      <td>Saturday, 8/17/19</td>
       <td>Annual Dinner</td>
-      <td>Daly’s and</td>
+      <td> TBD</td>
     </tr>
     <tr>
-      <td>Sunday, 8/26/18</td>
-      <td>Nine & Dine (tentative)</td>
-      <td>Scott Ryan</td>
-    </tr>
-    <tr>
-      <td>Sunday, 10/7/18</td>
+      <td>Sunday, 10/13/19</td>
       <td>Last Rose Dinner</td>
-      <td></td>
+      <td> TD</td>
     </tr>
   </tbody>
 </table>
