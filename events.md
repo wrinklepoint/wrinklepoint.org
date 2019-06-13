@@ -31,7 +31,7 @@ hasImageHeader: true
       <td>  TBD</td>
     </tr>
     <tr>
-      <td>Thursday, 8/1/19</td>
+      <td>Thursday, 7/25/19</td>
       <td>Ladies Progressive Dinner</td>
       <td> Pat Curry, need more volunteers<br>
         Cocktail hour: TBD<br>
