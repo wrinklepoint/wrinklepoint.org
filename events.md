@@ -46,7 +46,7 @@ hasImageHeader: true
       <td> Ed Jette, Bill Shibley, Greg O’Connell</td>
     </tr>
     <tr>
-      <td>Saturday, 8/17/19</td>
+      <td>Saturday, 8/24/19</td>
       <td>Annual Dinner</td>
       <td> Mary Lynn Shibley, Sheila Jette, Carole O’Connell</td>
     </tr>
