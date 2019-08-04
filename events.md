@@ -41,7 +41,7 @@ hasImageHeader: true
       </td>
     </tr>
     <tr>
-      <td>Friday, TBD</td>
+      <td>Friday, 7/26/19</td>
       <td> Cars, Cards, Cigars and Bourbon</td>
       <td> Ed Jette, Bill Shibley, Greg O’Connell</td>
     </tr>
