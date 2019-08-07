@@ -4,7 +4,7 @@ title: Marina
 hasImageHeader: true
 ---
 
-## Marina Seniority List (July 1, 2018)
+## Marina Seniority List (August 1, 2019)
 <div class="row">
   <div class="col-sm-3">
     <ol>
@@ -16,28 +16,26 @@ hasImageHeader: true
       <li>D. Cleland</li>
       <li>G. O'Connell</li>
       <li>C. Cave</li>
-      <li>D. Sisk</li>
       <li>B. Lenich</li>
+      <li>J. McCabe</li>
     </ol>
   </div>
   <div class="col-sm-3">
     <ol start="11">
-      <li>J. McCabe</li>
       <li>M. Hession</li>
       <li>J. McAuliffe</li>
       <li>L. Binnig</li>
-      <li>J. Coyman</li>
       <li>F. Miller</li>
       <li>D. Langille</li>
       <li>J. Brennan</li>
       <li>R. Wadman</li>
       <li>M. Lyons</li>
+      <li>B. Mellen</li>
+      <li>C. Atchue</li>
     </ol>
   </div>
   <div class="col-sm-3">
     <ol start="21">
-      <li>B. Mellen</li>
-      <li>C. Atchue</li>
       <li>S. Yamartino</li>
       <li>S. O'Keefe</li>
       <li>S. Matfis</li>
@@ -46,12 +44,12 @@ hasImageHeader: true
       <li>E. Jette</li>
       <li>B. Adams</li>
       <li>M. Warner</li>
+      <li>M. Rooney</li>
+      <li>P. Gilligan</li>
     </ol>
   </div>
   <div class="col-sm-3">
     <ol start="31">
-      <li>M. Rooney</li>
-      <li>P. Gilligan</li>
       <li>D. Cavicchi</li>
       <li>M. Fee</li>
       <li>N. Hickey</li>
@@ -61,15 +59,16 @@ hasImageHeader: true
       <li>J. Stadtler</li>
       <li>S. Kingsley</li>
       <li>B. Shibley</li>
+      <li>D. Slagle</li>
+      <li>A. Schneller</li>
     </ol>
   </div>
 </div>
 
-## Marina Waiting List (July 1, 2018)
-1. R. Slagle
-2. A. Schneller
-3. M. Mc Donough
-4. D. Marr
+## Marina Waiting List (August 1, 2019)
+1. M. Mc Donough
+2. D. Marr
+3, B. Mount
 
 ______
 
