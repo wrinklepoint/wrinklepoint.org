@@ -68,7 +68,7 @@ hasImageHeader: true
 ## Marina Waiting List (August 1, 2019)
 1. M. Mc Donough
 2. D. Marr
-3, B. Mount
+3. B. Mount
 
 ______
 
