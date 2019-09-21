@@ -24,7 +24,7 @@ hasImageHeader: true
     </tr>
     <tr>
       <td>Pool</td>
-      <td>Richard Wadman & Pat Curry</td>
+      <td>Pat Curry & Leslie Murray</td>
     </tr>
     <tr>
       <td>Treasurer</td>
@@ -48,7 +48,7 @@ hasImageHeader: true
     </tr>
     <tr>
       <td>Common Areas</td>
-      <td>Steven Kingsley</td>
+      <td>Andrew Schneller</td>
     </tr>
     <tr>
       <td>Social</td>
