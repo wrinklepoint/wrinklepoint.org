@@ -4,7 +4,7 @@ title: Board
 hasImageHeader: true
 ---
 
-## Board of Directors 2018-2019
+## Board of Directors 2019-2020
 
 <table class="table">
   <thead class="thead-light">
