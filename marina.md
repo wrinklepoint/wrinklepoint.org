@@ -92,7 +92,7 @@ ______
 
 The Wrinkle Point marina
 MARINA RULES & REGULATIONS
-(Updated May 2016)
+(Updated February 2020)
 OWNERSHIP AND LIMITATIONS
 The Marina is owned and operated by the Wrinkle Point Association, Inc. and subject to the rules and Regulations as approved by the Board of Directors. All boat owners agree to observe the following Rules and regulations regarding the rental of Wrinkle Point Association boat slips.
 
