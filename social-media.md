@@ -1,8 +1,14 @@
 ---
 layout: page
-title: Photos
+title: Social Media
 ---
-## #wrinklepoint
+## Facebook
+<div class="text-muted">A private Facebook group open to members of Wrinkle Point.</div>
+<a class="btn btn-primary mt-3" href="https://www.facebook.com/groups/868718796944048">Join Facebook Group</a>
+
+<hr />
+
+<h2>Instagram: <a href="https://www.instagram.com/explore/tags/wrinklepoint/">#wrinklepoint</a></h2>
 <span class="text-muted">Post photos to Instagram with the hashtag **#wrinklepoint** to add to this page.<br> Note: it may take up to 24 hours for the photo to be added to the page.</span>
 
 <style type="text/css">
