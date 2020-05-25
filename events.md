@@ -16,24 +16,24 @@ hasImageHeader: true
   </thead>
   <tbody>
     <tr>
-      <td>Monday, 5/27/19</td>
+      <td>Cancelled</td>
       <td>Memorial Day Brunch</td>
       <td>XXXXXXX</td>
     </tr>
     <tr>
-      <td>Saturday, 6/22/19</td>
+      <td>Cancelled</td>
       <td>Cocktail Party</td>
       <td>XXXXXXX</td>
     </tr>
     <tr>
-      <td>Thursday, 7/4/19</td>
+      <td>Cancelled</td>
       <td>4th of July Bike Parade</td>
       <td>  XXXXXXX</td>
     </tr>
     <tr>
-      <td>Thursday, 7/25/19</td>
+      <td>Cancelled</td>
       <td>Ladies Progressive Dinner</td>
-      <td> Pat Curry, need more volunteers<br>
+      <td> XXXXXXX<br>
         Cocktail hour: TBD<br>
         Dinner: XXXXXXX<br>
         Dinner: XXXXXXX<br>
@@ -41,17 +41,17 @@ hasImageHeader: true
       </td>
     </tr>
     <tr>
-      <td>Friday, 7/26/19</td>
+      <td>Cancelled</td>
       <td> Cars, Cards, Cigars and Bourbon</td>
       <td> XXXXXXX</td>
     </tr>
     <tr>
-      <td>Saturday, 8/24/19</td>
+      <td>Cancelled</td>
       <td>Annual Dinner</td>
       <td> XXXXXXX</td>
     </tr>
     <tr>
-      <td>Sunday, 10/13/19</td>
+      <td>Cancelled</td>
       <td>Last Rose Dinner</td>
       <td> XXXXXXX</td>
     </tr>
