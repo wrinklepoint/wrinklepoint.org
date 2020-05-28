@@ -66,10 +66,11 @@ hasImageHeader: true
 </div>
 
 ## Marina Waiting List (May 28, 2020)
-1. M. Mc Donough
-2. D. Marr
-3. B. Mount
-
+1. D. Marr
+2. B. Mount
+3. J. Swansey
+4. S. Keohan
+5. K. Collins
 ______
 
 ## Hurricanes of Years Past
