@@ -60,6 +60,7 @@ hasImageHeader: true
       <li>B. Shibley</li>
       <li>D. Slagle</li>
       <li>A. Schneller</li>
+      <li>M. McDonough</li>
     </ol>
   </div>
 </div>
