@@ -71,7 +71,7 @@ hasImageHeader: true
 3. J. Swansey
 4. S. Keohan
 5. K. Collins
-______
+
 
 ## Hurricanes of Years Past
 <div class="row no-gutters">
