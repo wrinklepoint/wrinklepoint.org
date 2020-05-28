@@ -4,7 +4,7 @@ title: Marina
 hasImageHeader: true
 ---
 
-## Marina Seniority List (August 1, 2019)
+## Marina Seniority List (May 28, 2020)
 <div class="row">
   <div class="col-sm-3">
     <ol>
@@ -55,7 +55,6 @@ hasImageHeader: true
       <li>N. Hickey</li>
       <li>M. Warren</li>
       <li>M. Kane</li>
-      <li>J. Langelier</li>
       <li>J. Stadtler</li>
       <li>S. Kingsley</li>
       <li>B. Shibley</li>
@@ -65,7 +64,7 @@ hasImageHeader: true
   </div>
 </div>
 
-## Marina Waiting List (August 1, 2019)
+## Marina Waiting List (May 28, 2020)
 1. M. Mc Donough
 2. D. Marr
 3. B. Mount
