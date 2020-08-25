@@ -66,7 +66,7 @@ hasImageHeader: true
 </div>
 
 ## Marina Waiting List (August 24, 2020)
-1. D. Marr (date on list unknown)
+1. D. Marr
 2. B. Mount (5/21/19)
 3. J. Swansey (1/22/20)
 4. S. Keohan (3/1/20)
