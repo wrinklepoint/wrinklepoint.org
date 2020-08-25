@@ -65,12 +65,14 @@ hasImageHeader: true
   </div>
 </div>
 
-## Marina Waiting List (May 28, 2020)
-1. D. Marr
-2. B. Mount
-3. J. Swansey
-4. S. Keohan
-5. K. Collins
+## Marina Waiting List (August 24, 2020)
+1. D. Marr (date on list unknown)
+2. B. Mount (5/21/19)
+3. J. Swansey (1/22/20)
+4. S. Keohan (3/1/20)
+5. K. Collins (3/24/20)
+6. J. D'Errico (7/1/20)
+7. M. Burke (8/13/20)
 
 
 ## Hurricanes of Years Past
