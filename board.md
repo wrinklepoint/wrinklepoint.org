@@ -4,7 +4,7 @@ title: Board
 hasImageHeader: true
 ---
 
-## Board of Directors 2019-2020
+## Board of Directors 2020-2021
 
 <table class="table">
   <thead class="thead-light">
@@ -16,15 +16,15 @@ hasImageHeader: true
   <tbody>
     <tr>
       <td>President</td>
-      <td>Bill Adams</td>
+      <td>Andrew Schneller</td>
     </tr>
     <tr>
       <td>Vice President & Membership</td>
-      <td>Mark Warner</td>
+      <td>Neil Hickey</td>
     </tr>
     <tr>
       <td>Pool</td>
-      <td>Pat Curry & Leslie Murray</td>
+      <td>Leslie Murray & Jenn Farrell</td>
     </tr>
     <tr>
       <td>Treasurer</td>
@@ -32,15 +32,15 @@ hasImageHeader: true
     </tr>
     <tr>
       <td>Communications</td>
-      <td>Stephen Yamartino</td>
+      <td>Chris Carroll</td>
     </tr>
     <tr>
       <td>Secretary</td>
-      <td>Karen Mellen</td>
+      <td>Laurie Swansey</td>
     </tr>
     <tr>
       <td>Clubhouse</td>
-      <td>Mary Lynn Shibley</td>
+      <td>Kristen Salmon</td>
     </tr>
     <tr>
       <td>Marina</td>
@@ -48,7 +48,7 @@ hasImageHeader: true
     </tr>
     <tr>
       <td>Common Areas</td>
-      <td>Andrew Schneller</td>
+      <td>Patrick Glynn</td>
     </tr>
     <tr>
       <td>Social</td>
