@@ -4,7 +4,7 @@ title: Marina
 hasImageHeader: true
 ---
 
-## Marina Seniority List (May 28, 2020)
+## Marina Seniority List (November 1, 2020)
 <div class="row">
   <div class="col-sm-3">
     <ol>
@@ -65,7 +65,7 @@ hasImageHeader: true
   </div>
 </div>
 
-## Marina Waiting List (August 24, 2020)
+## Marina Waiting List (November 1, 2020)
 1. D. Marr
 2. B. Mount (5/21/19)
 3. J. Swansey (1/22/20)
@@ -73,6 +73,8 @@ hasImageHeader: true
 5. K. Collins (3/24/20)
 6. J. D'Errico (7/1/20)
 7. M. Burke (8/13/20)
+8. C. Lessard (9/15/2020)
+9. L. Coonan (9/20/2020)
 
 
 ## Hurricanes of Years Past
