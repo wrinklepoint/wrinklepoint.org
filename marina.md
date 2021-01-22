@@ -75,7 +75,7 @@ hasImageHeader: true
 7. M. Burke (8/13/20)
 8. C. Lessard (9/15/2020)
 9. L. Coonan (9/20/2020)
-
+10.S. Lyons (1/19/21)
 
 ## Hurricanes of Years Past
 <div class="row no-gutters">
