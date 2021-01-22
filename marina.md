@@ -74,7 +74,8 @@ hasImageHeader: true
 6. J. D'Errico (7/1/20)
 7. M. Burke (8/13/20)
 8. C. Lessard (9/15/2020)
-9. L. Coonan (9/20/2020)<br>
+9. L. Coonan (9/20/2020)
+8. C. Lessard (9/15/2020)
 10.S. Lyons (1/19/21)
 
 ## Hurricanes of Years Past
