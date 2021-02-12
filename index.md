@@ -13,8 +13,8 @@ layout: default
       <strong>Wrinkle Point</strong>
     </h1>
     <p style="line-height: 1.7;">
-      THIS IS AN OLD WEBSITE THAT WILL BE TAKEN DOWN SOON, PLEASE VISIT www.wrinklepoint.com TO VIEW THE CURRENT WEBSITE!
-    </p>
+      This is an old website, please visit <a href="https://www.wrinklepoint.com/"> to view the new website!
+    </p>"
   </div>
 </div>
 
